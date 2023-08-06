@@ -1,0 +1,374 @@
+{
+  "Mobiles": [
+    {
+      "id": 1,
+      "image": "https://www.91-img.com/pictures/148752-v5-samsung-galaxy-s23-ultra-5g-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "Samsung Galaxy S23 Ultra 5G",
+      "Rate": "Rs.107,790",
+      "Description": "The Samsung Galaxy S23 Ultra is the pinnacle of flagship experience, at least in the Android world. While not changing much in terms of design from last time around, the phone boasts of a massive 200MP primary camera on the back. There's also the specially customised Qualcomm Snapdragon 8 Gen 2 that sorts out your performance needs amicably. Samsung, being the king of displays, has provided a 6.8-inch Super AMOLED QHD+ panel that has a 120Hz refresh rate and a peak brightness of up to 1,750nits. Finally the device has an S-pen that slots right into the body and a 5,000mAh battery."
+    },
+    {
+      "id": 2,
+      "image": "https://www.91-img.com/pictures/146919-v6-apple-iphone-14-pro-max-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "Apple iPhone 14 Pro Max",
+      "Rate": "Rs.127,999",
+      "Description": "Apple's latest iPhone 14 Pro Max can be considered at the pinnacle of smartphone prowess. While demanding a sizeable pricetag, the iPhone 14 Pro Max also delivers the fastest performance in its segment thanks to the A16 Bionic chipset. The phone boasts of a 120Hz Super AMOLED panel and comes with the all new Dynamic Island which replaces the iconic iPhone notch. With Apple's control over the device's software and hardware features, the iPhone 14 Pro Max should be at the top of your consideration in the premium smartphone segment."
+    },
+    {
+      "id": 3,
+      "image": "https://www.91-img.com/pictures/150378-v11-vivo-x90-pro-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "vivo X90 Pro",
+      "Rate": "Rs.84,999",
+      "Description": "The Vivo X90 Pro is a top-of-the-line smartphone featuring a 6.78-inch AMOLED display, MediaTek Dimensity 9200 processor, 8GB RAM, and 128GB storage. It runs on Android 13 with Funtouch OS 13 and has a triple-camera setup, including a 1-inch 50MP primary camera and a 32MP front-facing camera. The phone has a sleek design with a vegan leather back, an in-display fingerprint scanner, and 5G connectivity. It also has a 4870mAh battery and supports a whopping 120W fast charging solution, making it a premium device for those seeking advanced features"
+    },
+    {
+      "id": 4,
+      "image": "https://www.91-img.com/pictures/150934-v4-xiaomi-13-pro-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "Xiaomi 13 Pro",
+      "Rate": "Rs.79,999",
+      "Description": "Xiaomi's 13 Pro is in contention for being perhaps the best flagshp phone in the country right now. It packs in a stellar 50MP triple-camera setup that is co-developed by Leica. Needless to say the device's image taking capabilities are extremely good. Packed inside the premium ceramic build is a 4,800mAh battery that can be charged at 120W speeds to give it a very quick top-up. Performance is of course handled by the new Qualcomm Snapdragon 8 Gen 2 while the software is Xiaomi's new MIUI 14. Finally, the curved AMOLED panel up front has a WQHD+ resolution and 120Hz of refresh rate."
+    },
+    {
+      "id": 5,
+      "image": "https://www.91-img.com/pictures/149292-v6-google-pixel-7-pro-5g-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "Google Pixel 7 Pro 5G",
+      "Rate": "Rs.65,999",
+      "Description": "After a long hiatus, Google is back in theIndian market with its flagship Pixel devices. The Pixel 7 Pro is backed up with the company's new Tensor G2 chipset that enhances the device's machine learning and AI capabilties. Although performance levels do not match the ultra flagship standards, the Pixel 7 Pro's 50MP primary shooter and 48MP telephoto lens do manage to click some of the best photos in the smartphone world. The viewing experience on the device also remains unencumbered thanks to a 120Hz Super AMOLED panel with a 1440p resolution."
+    },
+    {
+      "id": 6,
+      "image": "https://www.91-img.com/pictures/153875-v4-oppo-find-n2-flip-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "OPPO Find N2 Flip",
+      "Rate": "Rs.89,999",
+      "Description": "The OPPO Find N2 Flip is one of the first foldables of the year to launch in India and it does a much better job of the clam-shell form factor than the Samsung Galaxy Z Flip 4. The Find N2 Flip delivers in the usage experience and also packs in a punch with things like performance and cameras. There is the Dimensity 9000+ operating on the inside while the optics are handled by a 50MP primary shooter and an 8MP ultra-wide. As for the cover screen on the outside, it is a 3.26-inch AMOLED panel while on the inside is a 6.8-inch foldable E6 panel with a 120Hz refresh rate."
+    },
+    {
+      "id": 7,
+      "image": "https://www.91-img.com/pictures/148750-v5-samsung-galaxy-s23-plus-5g-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "Samsung Galaxy S23 Plus 5G",
+      "Rate": "Rs.94,999",
+      "Description": "The Galaxy S23+ is, in all regards, exactly the same same as the Galaxy S23. The biggest difference arises in its screen size which is bumped up to 6.6-inch. Also the battery is also increased to 4,700mAh capacity. The phone uses the same customised Snapdragon 8 Gen 2 SoC from Qualcomm that gives it outright better performance in the segment. As far as its optical setup goes, the device has a 50MP primary shooter, a 12MP ultra-wide and a 10MP 3X telephoto lens. The screen is of course a Dynamic AMOLED panel 120Hz refresh rate, 1,750 nits of peak brightness and more."
+    },
+    {
+      "id": 8,
+      "image": "https://www.91-img.com/pictures/148742-v5-samsung-galaxy-s23-5g-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "Samsung Galaxy S23 5G",
+      "Rate": "Rs.64,990",
+      "Description": "With new flagship internals, a better camera array and basically the same design as before, Samsung's new Galaxy S23 is a rather iterative update from last year. It does make use of a customised Snapdragon 8 Gen 2 SoC from Qualcomm that gives it outright better performance in the segment. As far as its optical setup goes, the device packs in a 50MP primary shooter, a 12MP ultra-wide and a 10MP 3X telephoto lens. The screen is of course top-notch at 6.1-inch Dynamic AMOLED with 120Hz refresh rate, 1,750 nits of peak brightness and more. Finally the compact smartphone has 3,900mAh battery."
+    },
+    {
+      "id": 9,
+      "image": "https://www.91-img.com/pictures/142100-v7-apple-iphone-13-pro-max-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "Apple iPhone 13 Pro Max",
+      "Rate": "Rs.129,900",
+      "Description": "The latest Apple iPhones are here and the lineup is headlined by the all-new iPhone 13 Pro Max. This time around, Apple has finally furnished its top dog with a 120Hz high-refresh rate display along with a more powerful custom silicon in the form of the A15 Bionic SoC. It also helps that the smartphone offers newer imaging sensors that click stunning images come night or day. Apple has also incorporated some new features with the iPhone 13 lineup including a Cinematic Video mode, as well as Photographic styles that will undoubtedly elevate a user's photography and cinematography experience."
+    },
+    {
+      "id": 10,
+      "image": "https://www.91-img.com/pictures/148006-v8-samsung-galaxy-z-fold-4-5g-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "Samsung Galaxy Z Fold 4 5G",
+      "Rate": "Rs.114,000",
+      "Description": "Samsung has truly refined the fodling smartphone experience with the Galaxy Z Fold4. While being an incremental update from the Fold 3, the device still has top-of-the-line processing capabilties, S-pen support, five cameras and more for a truly flagship experience. The inner screen is 120Hz AMOLED that opens up to measure 7.4-inch while on the front Samsung keeps the 6.2-inch panel. As for optics, there is a 4MP under-display camera on the inside, 10MP on the cover screen and a triple-camera setup on the back. All of this is kept running thanks to a 4,400mAh battery."
+    },
+    {
+      "id": 11,
+      "image": "https://www.91-img.com/pictures/145160-v8-samsung-galaxy-s22-ultra-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "Samsung Galaxy S22 Ultra",
+      "Rate": "Rs.78,999",
+      "Description": "The Samsung Galaxy S22 Ultra is the most loaded flagship from the company's stables yet, scoring high on most aspects like performance, cameras and usage experience. The included S Pen acts as the cherry on top, and is a highly useful accessory to have."
+    },
+    {
+      "id": 12,
+      "image": "https://www.91-img.com/pictures/147554-v4-vivo-x80-pro-5g-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "vivo X80 Pro 5G",
+      "Rate": "Rs.79,999",
+      "Description": "Currently the Vivo X80 Pro is arguably the best phone in the market for photography. It has a superlative camera array consisting of a 50MP Samsung GNV sensor, a 48MP ultra-wide shooter and a 5X persicope lens. With an array of features on offer for photography and videography, the X80 Pro is the most verstaile phone in the camera department. It also packs in the latest specs including a Snpadragon Gen 1 chipset, a WQHD+ 120Hz E5 AMOLED panel and up to 80W of charging speeds."
+    },
+    {
+      "id": 13,
+      "image": "https://www.91-img.com/pictures/148951-v6-oneplus-11-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "OnePlus 11",
+      "Rate": "Rs.56,999",
+      "Description": "The OnePlus 11 5G is one of the fastest phones on the planet currently thanks to the Qualcomm Snapdragon 8 Gen 2 SoC being harboured inside. Trying to get back to its flagship killer roots, the OnePlus 11 employs a trio of Sony IMX sensors on the back to take some extremely great shots in both dayllight and night time scenarios. The phone also boasts of 100W of super fast charging and a 5,000mAh cell that'll last you just about the entire day. Finally the viewing experience on the device is top-notch as well with a 6.7-inch Fluid AMOLED 120Hz panel that has a QHD+ resolution"
+    },
+    {
+      "id": 14,
+      "image": "https://www.91-img.com/pictures/146301-v4-oneplus-nord-3-5g-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "OnePlus Nord 3 5G",
+      "Rate": "Rs.33,999",
+      "Description": "The OnePlus Nord 3 5G is a compelling smartphone that excels in almost every department. The handset boasts a 6.74-inch Super Fluid AMOLED display with a dynamic refresh rate, providing an incredibly smooth and responsive experience. The device is powered by the MediaTek Dimensity 9000 SoC, which can handle pretty much everything thrown at it. Moreover, the handset packs triple rear cameras, with a 50MP primary sensor that captures images with vivid colors and ample details. Lastly, the phone houses a 5,000mAh battery with 80W fast charging support."
+    },
+    {
+      "id": 15,
+      "image": "https://www.91-img.com/pictures/153657-v4-oppo-reno10-pro-plus-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "OPPO Reno10 Pro+ 5G",
+      "Rate": "Rs.54,999",
+      "Description": "The Reno 10 Pro+ is a powerhouse device that leaves no stone unturned in delivering a top-tier smartphone experience. Its camera setup, featuring a 50MP Sony IMX 890 primary sensor, 64MP 3X telephoto lens, and an 8MP ultra-wide lens, captures stunning detail in any scenario. The 32MP selfie camera ensures perfect self-portraits. Combined with the Qualcomm Snapdragon 8+ Gen 1 SoC, 12GB RAM, and a vibrant 120Hz OLED display, it offers smooth performance and immersive visuals. The Realme UI 4.0 enhances user-friendliness, while the 4,700mAh battery with 100W charging keeps you powered up all day."
+    },
+    {
+      "id": 16,
+      "image": "https://www.91-img.com/pictures/150304-v8-realme-11-pro-plus-mobile-phone-medium-1.jpg?tr=q-80",
+      "Model": "realme 11 Pro Plus",
+      "Rate": "Rs.27,999",
+      "Description": "Realme 11 Pro+ is a game-changing smartphone designed to redefine your mobile experience under Rs 30,000. Equipped with a powerful new Dimensity 7050 SoC and a stunning Super AMOLED display, this device offers seamless multitasking and immersive visuals. Capture life's moments with precision using the advanced triple-camera system powered by a 200MP sensor. Stay connected all day with a long-lasting 5,000mAh battery and enjoy lightning-fast 100W charging speeds. Last but not the least, is the device's premium leather back finish imparting it with a highly premium feel and look."
+    }
+  ],
+  "Laptops": [
+    {
+      "id": 17,
+      "image": "https://cdn1.smartprix.com/rx-ig5tK2dFn-w420-h420/hp-victus-16-d0333tx.webp",
+      "Model": "HP Victus 16-d0333TX Laptop",
+      "Rate": "55,990",
+      "Description": "HP Victus 16-d0333TX Gaming Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph) price in India is ₹55,990. You can buy HP Victus 16-d0333TX Gaming Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph) online on Amazon at lowest price. HP Victus 16-d0333TX Gaming Laptop (11th Gen Core i5/ 16GB/ 512GB SSD/ Win11/ 4GB Graph) was last updated on July 19, 2023"
+    },
+    {
+      "id": 18,
+      "image": "https://cdn1.smartprix.com/rx-iRUMXjHn3-w420-h420/asus-vivobook-16x-20.webp",
+      "Model": "Asus Vivobook 16X 2022 ",
+      "Rate": "46,990",
+      "Description": "Asus Vivobook 16X 2022 M1603QA-MB502WS Laptop (Ryzen 5-5600H/ 8GB/ 512GB SSD/ Win11 Home) price in India is ₹46,990. You can buy Asus Vivobook 16X 2022 M1603QA-MB502WS Laptop (Ryzen 5-5600H/ 8GB/ 512GB SSD/ Win11 Home) online on Amazon at lowest price. Asus Vivobook 16X 2022 M1603QA-MB502WS Laptop (Ryzen 5-5600H/ 8GB/ 512GB SSD/ Win11 Home) was last updated on July 19, 2023"
+    },
+    {
+      "id": 19,
+      "image": "https://cdn1.smartprix.com/rx-i8CnXpWCB-w420-h420/hp-15s-fq2717tu-lapt.webp",
+      "Model": "HP 15s-fq2717TU Laptop ",
+      "Rate": "37,490",
+      "Description": "HP 15s-fq2717TU Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home) price in India is ₹37,490. You can buy HP 15s-fq2717TU Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home) online on Croma at lowest price. HP 15s-fq2717TU Laptop (11th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home) was last updated on July 19, 2023"
+    },
+    {
+      "id": 20,
+      "image": "https://cdn1.smartprix.com/rx-ioXEIfxVI-w420-h420/acer-one-14-z8-415-l.webp",
+      "Model": "Acer One 14 Z8-415 Laptop",
+      "Rate": "28,990  ",
+      "Description": "Acer One 14 Z8-415 Laptop (11th Gen Core i3 / 8GB/ 512GB SSD/ Win11 Home) price in India is ₹28,990. You can buy Acer One 14 Z8-415 Laptop (11th Gen Core i3 / 8GB/ 512GB SSD/ Win11 Home) online on Flipkart at lowest price. Acer One 14 Z8-415 Laptop (11th Gen Core i3 / 8GB/ 512GB SSD/ Win11 Home) was last updated on July 19, 2023"
+    },
+    {
+      "id": 21,
+      "image": "https://cdn1.smartprix.com/rx-ihG18IPbT-w420-h420/acer-aspire-lite-al1.webp",
+      "Model": "Acer Aspire Lite AL15-51 Laptop",
+      "Rate": "28,990",
+      "Description": "Acer Aspire Lite AL15-51 Laptop (11th Gen Core i3/ 8GB/ 256GB SSD/ Win11) price in India is ₹28,990. You can buy Acer Aspire Lite AL15-51 Laptop (11th Gen Core i3/ 8GB/ 256GB SSD/ Win11) online on Amazon at lowest price. Acer Aspire Lite AL15-51 Laptop (11th Gen Core i3/ 8GB/ 256GB SSD/ Win11) was last updated on July 19, 2023"
+    },
+    {
+      "id": 22,
+      "image": "https://cdn1.smartprix.com/rx-i66WzFcoY-w420-h420/dell-inspiron-5630-l.webp",
+      "Model": "Dell Inspiron 5630 Laptop",
+      "Rate": "75,763",
+      "Description": "Dell Inspiron 5630 Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11) price in India is ₹75,763. You can buy Dell Inspiron 5630 Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11) online on Amazon at lowest price. Dell Inspiron 5630 Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11) was last updated on July 19, 2023"
+    },
+    {
+      "id": 23,
+      "image": "https://cdn1.smartprix.com/rx-ixUnNaUSE-w420-h420/asus-vivobook-15-x15.webp",
+      "Model": "Asus Vivobook 15 X1502ZA",
+      "Rate": "59,990",
+      "Description": "Asus Vivobook 15 X1502ZA-EJ741WS Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11) price in India is ₹59,990. You can buy Asus Vivobook 15 X1502ZA-EJ741WS Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11) online on Amazon at lowest price. Asus Vivobook 15 X1502ZA-EJ741WS Laptop (12th Gen Core i7/ 16GB/ 512GB SSD/ Win11) was last updated on July 19, 2023"
+    },
+    {
+      "id": 24,
+      "image": "https://cdn1.smartprix.com/rx-i87KPuCQL-w420-h420/hp-victus-15-fa1066t.webp",
+      "Model": "HP Victus 15-fa1066TX Gaming Laptop",
+      "Rate": "1,09,400",
+      "Description": "HP Victus 15-fa1066TX Gaming Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph) price in India is ₹1,09,400. You can buy HP Victus 15-fa1066TX Gaming Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph) online on Flipkart at lowest price. HP Victus 15-fa1066TX Gaming Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph) was last updated on July 19, 2023"
+    },
+    {
+      "id": 25,
+      "image": "https://cdn1.smartprix.com/rx-i6vI2Dy7k-w420-h420/primebook-4g-android.webp",
+      "Model": "Primebook 4G Android Laptop",
+      "Rate": "12,990",
+      "Description": "Primebook 4G Android Laptop (MediaTek Kompanio 500/ 4GB/ 64GB eMMC/ Android 11) price in India is ₹12,990. You can buy Primebook 4G Android Laptop (MediaTek Kompanio 500/ 4GB/ 64GB eMMC/ Android 11) online on Flipkart at lowest price. Primebook 4G Android Laptop (MediaTek Kompanio 500/ 4GB/ 64GB eMMC/ Android 11) was last updated on July 19, 2023"
+    },
+    {
+      "id": 26,
+      "image": "https://cdn1.smartprix.com/rx-iXDHYXcGv-w420-h420/dell-g15-5520-gaming.webp",
+      "Model": "Dell G15-5520 Gaming Laptop",
+      "Rate": "67,990",
+      "Description": "Dell G15-5520 Gaming Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11/ 4GB Graph) price in India is ₹67,990. You can buy Dell G15-5520 Gaming Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11/ 4GB Graph) online on Flipkart at lowest price. Dell G15-5520 Gaming Laptop (12th Gen Core i5/ 8GB/ 512GB SSD/ Win11/ 4GB Graph) was last updated on July 19, 2023"
+    },
+    {
+      "id": 27,
+      "image": "https://cdn1.smartprix.com/rx-iXMsgRkkm-w420-h420/apple-macbook-air-20.webp",
+      "Model": "Apple MacBook Air 2020 MGND3HN",
+      "Rate": "81,990",
+      "Description": "Apple MacBook Air 2020 MGND3HN Laptop (Apple M1/ 8GB/ 256GB/ MacOS) price in India is ₹81,990. You can buy Apple MacBook Air 2020 MGND3HN Laptop (Apple M1/ 8GB/ 256GB/ MacOS) online on Croma at lowest price. Apple MacBook Air 2020 MGND3HN Laptop (Apple M1/ 8GB/ 256GB/ MacOS) was last updated on July 19, 2023"
+    },
+    {
+      "id": 28,
+      "image": "https://cdn1.smartprix.com/rx-icLedCxeu-w420-h420/hp-15s-fq5007tu-lapt.webp",
+      "Model": "HP 15s-fq5007TU Laptop",
+      "Rate": "40,990",
+      "Description": "HP 15s-fq5007TU Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home) price in India is ₹40,990. You can buy HP 15s-fq5007TU Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home) online on Flipkart at lowest price. HP 15s-fq5007TU Laptop (12th Gen Core i3/ 8GB/ 512GB SSD/ Win11 Home) was last updated on July 19, 2023"
+    },
+    {
+      "id": 29,
+      "image": "https://cdn1.smartprix.com/rx-iBCHsbyMm-w420-h420/asus-tuf-gaming-a15.webp",
+      "Model": "Asus TUF Gaming A15 2022",
+      "Rate": "86,990",
+      "Description": "Asus TUF Gaming A15 2022 FA577RE-HN055WS Gaming Laptop (AMD Ryzen 7 6800H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph) price in India is ₹86,990. You can buy Asus TUF Gaming A15 2022 FA577RE-HN055WS Gaming Laptop (AMD Ryzen 7 6800H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph) online on Flipkart at lowest price. Asus TUF Gaming A15 2022 FA577RE-HN055WS Gaming Laptop (AMD Ryzen 7 6800H/ 16GB/ 512GB SSD/ Win11/ 4GB Graph) was last updated on July 19, 2023"
+    },
+    {
+      "id": 30,
+      "image": "https://cdn1.smartprix.com/rx-i46v1o9ph-w420-h420/asus-vivobook-s15-20.webp",
+      "Model": "Asus Vivobook S15 2022",
+      "Rate": "54,990",
+      "Description": "Asus Vivobook S15 2022 K3502ZA-KJ542WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11) price in India is ₹54,990. You can buy Asus Vivobook S15 2022 K3502ZA-KJ542WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11) online on Amazon at lowest price. Asus Vivobook S15 2022 K3502ZA-KJ542WS Laptop (12th Gen Core i5/ 16GB/ 512GB SSD/ Win11) was last updated on July 19, 2023"
+    },
+    {
+      "id": 31,
+      "image": "https://cdn1.smartprix.com/rx-iwTKv09Ye-w420-h420/hp-pavilion-15-eg308.webp",
+      "Model": "HP Pavilion 15-eg3081TU ",
+      "Rate": "76,990",
+      "Description": "HP Pavilion 15-eg3081TU Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home) price in India is ₹76,990. You can buy HP Pavilion 15-eg3081TU Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home) online on Croma at lowest price. HP Pavilion 15-eg3081TU Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home) was last updated on July 19, 2023"
+    },
+    {
+      "id": 32,
+      "image": "https://cdn1.smartprix.com/rx-i9Oakmjcl-w420-h420/lenovo-ideapad-gamin.webp",
+      "Model": "Lenovo IdeaPad Gaming 3",
+      "Rate": "47,990",
+      "Description": "Lenovo IdeaPad Gaming 3 15IHU6 82K101B6IN Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph) price in India is ₹47,990. You can buy Lenovo IdeaPad Gaming 3 15IHU6 82K101B6IN Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph) online on Flipkart at lowest price. Lenovo IdeaPad Gaming 3 15IHU6 82K101B6IN Laptop (11th Gen Core i5/ 8GB/ 512GB SSD/ Win11 Home/ 4GB Graph) was last updated on July 19, 2023"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "Model": "Samsung Galaxy S23 Ultra 5G"
+    },
+    {
+      "id": 2,
+      "Model": "Apple iPhone 14 Pro Max"
+    },
+    {
+      "id": 3,
+      "Model": "vivo X90 Pro"
+    },
+    {
+      "id": 4,
+      "Model": "Xiaomi 13 Pro"
+    },
+    {
+      "id": 5,
+      "Model": "Google Pixel 7 Pro 5G"
+    },
+    {
+      "id": 6,
+      "Model": "OPPO Find N2 Flip"
+    },
+    {
+      "id": 7,
+      "Model": "Samsung Galaxy S23 Plus 5G"
+    },
+    {
+      "id": 8,
+      "Model": "Samsung Galaxy S23 5G"
+    },
+    {
+      "id": 9,
+      "Model": "Apple iPhone 13 Pro Max"
+    },
+    {
+      "id": 10,
+      "Model": "Samsung Galaxy Z Fold 4 5G"
+    },
+    {
+      "id": 11,
+      "Model": "Samsung Galaxy S22 Ultra"
+    },
+    {
+      "id": 12,
+      "Model": "vivo X80 Pro 5G"
+    },
+    {
+      "id": 13,
+      "Model": "OnePlus 11"
+    },
+    {
+      "id": 14,
+      "Model": "OnePlus Nord 3 5G"
+    },
+    {
+      "id": 15,
+      "Model": "OPPO Reno10 Pro+ 5G"
+    },
+    {
+      "id": 16,
+      "Model": "realme 11 Pro Plus"
+    },
+    {
+      "id": 17,
+      "Model": "HP Victus 16-d0333TX Laptop"
+    },
+    {
+      "id": 18,
+      "Model": "Asus Vivobook 16X 2022 "
+    },
+    {
+      "id": 19,
+      "Model": "HP 15s-fq2717TU Laptop "
+    },
+    {
+      "id": 20,
+      "Model": "Acer One 14 Z8-415 Laptop"
+    },
+    {
+      "id": 21,
+      "Model": "Acer Aspire Lite AL15-51 Laptop"
+    },
+    {
+      "id": 22,
+      "Model": "Dell Inspiron 5630 Laptop"
+    },
+    {
+      "id": 23,
+      "Model": "Asus Vivobook 15 X1502ZA"
+    },
+    {
+      "id": 24,
+      "Model": "HP Victus 15-fa1066TX Gaming Laptop"
+    },
+    {
+      "id": 25,
+      "Model": "Primebook 4G Android Laptop"
+    },
+    {
+      "id": 26,
+      "Model": "Dell G15-5520 Gaming Laptop"
+    },
+    {
+      "id": 27,
+      "Model": "Apple MacBook Air 2020 MGND3HN"
+    },
+    {
+      "id": 28,
+      "Model": "HP 15s-fq5007TU Laptop"
+    },
+    {
+      "id": 29,
+      "Model": "Asus TUF Gaming A15 2022"
+    },
+    {
+      "id": 30,
+      "Model": "Asus Vivobook S15 2022"
+    },
+    {
+      "id": 31,
+      "Model": "HP Pavilion 15-eg3081TU "
+    },
+    {
+      "id": 32,
+      "Model": "Lenovo IdeaPad Gaming 3"
+    }
+  ],
+  "cart": [
+    {
+      "model": "Apple iPhone 14 Pro Max",
+      "image": "https://www.91-img.com/pictures/146919-v6-apple-iphone-14-pro-max-mobile-phone-medium-1.jpg?tr=q-80",
+      "id": 2,
+      "quantity": 1
+    },
+    {
+      "model": "Samsung Galaxy S23 Ultra 5G",
+      "image": "https://www.91-img.com/pictures/148752-v5-samsung-galaxy-s23-ultra-5g-mobile-phone-medium-1.jpg?tr=q-80",
+      "id": 1,
+      "quantity": 1
+    }
+  ]
+}

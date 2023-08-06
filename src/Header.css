@@ -1,0 +1,143 @@
+.Header{
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 12px;
+
+    align-items: center;
+    padding-bottom: 1in;
+}
+
+.searchbox{
+    
+	padding: 8px;
+	border-radius: 8px;
+	color: var(--light);
+	font-size: 1rem;
+    margin-top: 8px;
+    color: black;
+    width: 60%;
+    font-weight: 500;
+    margin-right: 12px;
+}
+
+.Profilebox{
+    width: 3in;
+    height: 3in;
+   border: 2px solid black;
+   border-radius: 4px;
+    padding: 0 8px;
+    background-color: whitesmoke;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+
+.seemorepage{
+    width: 100%;
+    height: 100%;
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+
+ 
+}
+
+.mobilesdiv2{
+    margin: 0;
+    width: 24vw;
+    height: 45vh;
+
+}
+
+
+.seemoreimg{
+    width: 2in;
+    height: 2in;
+}
+
+.cartitem{
+
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    
+    border: 2px solid black;
+    border-radius: 12px;
+    margin: 16px 16px;
+    padding: 12px;
+
+}
+
+.cartpage{
+    width: 100%;
+    height: 100%;
+ display: flex;
+ flex-direction: column;
+}
+
+.cartbuton{
+    display: flex;
+    align-items: center ;
+    
+}
+
+.cartbuton p{
+    margin: 0 12px;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.cartbuton button {
+	font-size: 32px;
+	font-weight: 550;
+    cursor: pointer;
+	transition: 0.4s;
+    padding: 0 6px;
+}
+
+.cartbuton button:hover {
+	opacity: 0.5;
+}
+.cartbuton button:active {
+	opacity: 0.2;
+}   
+
+.cartimg{
+    width: 2in;
+    height: 2in;
+}
+
+.textareadiv{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+    
+}
+
+.searchbox{
+    width: 3in;
+
+}
+
+.Addbutton{
+    font-size: 22px;
+    font-weight: 550;
+    cursor: pointer;
+	transition: 0.4s;
+        padding: 0 5px;
+    border-radius: 360%;
+    margin-left:1in
+}
+.removebutton{
+    position: absolute;
+    font-size: 22px;
+    font-weight: 550;
+    cursor: pointer;
+	transition: 0.4s;
+    padding: 0 5px;
+    border-radius: 360%;
+    right: 19px;
+    top: 27px;
+    
+}
